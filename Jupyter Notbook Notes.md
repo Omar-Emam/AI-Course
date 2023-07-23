@@ -1,7 +1,7 @@
 ## Start a new notebook
 1. Open Anaconda Prompt.
 2. cd to the directory where you want to open the server. (If you want to cd to another drive, just type ex. d:)
-3. Run command anaconda notebook.
+3. Run the command "jupyter notebook".
 4. New -> Python 3
 
 ## Frequent Keyboard shortcuts
